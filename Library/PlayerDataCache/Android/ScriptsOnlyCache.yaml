@@ -7,6 +7,7 @@ ScriptsOnlyBuild:
     - ONSPSettings
     Oculus.VR.Editor.dll:
     - Assets.Oculus.VR.Editor.OVRPlatformToolSettings
+    - OVRConfig
     Oculus.VR.dll:
     - OVRCameraRig
     - OVRDebugInfo
@@ -46,13 +47,9 @@ ScriptsOnlyBuild:
     Unity.RenderPipelines.Universal.Runtime.dll:
     - UnityEngine.Rendering.Universal.ForwardRendererData
     - UnityEngine.Rendering.Universal.PostProcessData
-    - UnityEngine.Rendering.Universal.UniversalAdditionalCameraData
     - UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset
-    - UnityEngine.Rendering.Universal.UniversalRenderPipelineEditorResources
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
-    Unity.ShaderGraph.Editor.dll:
-    - UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -72,7 +69,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Toggle
     - UnityEngine.UI.VerticalLayoutGroup
   sceneClasses:
-    Assets/version1.unity:
+    Assets/Scenes/planet.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -92,6 +89,8 @@ ScriptsOnlyBuild:
     - Class: 48
       Script: {instanceID: 0}
     - Class: 54
+      Script: {instanceID: 0}
+    - Class: 64
       Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
@@ -136,8 +135,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12262}
     - Class: 114
-      Script: {instanceID: 12674}
-    - Class: 114
       Script: {instanceID: 12734}
     - Class: 114
       Script: {instanceID: 12794}
@@ -181,6 +178,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 15012}
     - Class: 114
       Script: {instanceID: 15086}
+    - Class: 114
+      Script: {instanceID: 15118}
     - Class: 114
       Script: {instanceID: 15236}
     - Class: 114
@@ -1818,6 +1817,12 @@ ScriptsOnlyBuild:
     className: CinemachineUniversalPixelPerfect
   - hash:
       serializedVersion: 2
+      Hash: b00ce1f32326f1cd1160488ffd14965a
+    assemblyName: Oculus.VR.Editor.dll
+    namespaceName: 
+    className: OVRConfig
+  - hash:
+      serializedVersion: 2
       Hash: 8b9f42d72019bde2f9fe0667762eaff3
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -2220,5 +2225,5 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 13
   scenePathNames:
-  - Assets/version1.unity
-  playerPath: /Users/adamglueck/Desktop/CS27_Planet/version1.apk
+  - Assets/Scenes/planet.unity
+  playerPath: /Users/imac/CS_27_Planet/test.apk
