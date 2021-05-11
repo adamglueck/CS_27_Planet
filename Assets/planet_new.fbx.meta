@@ -3,7 +3,122 @@ guid: d84d2ea152ee346dcae9a0ac37272a3b
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: big_flower
+    second: {fileID: 2100000, guid: 5b0d4203ea9614e49b301597e4508175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: branch1
+    second: {fileID: 2100000, guid: fab1e6303318d4035bd228a43a5dbdc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bulb3
+    second: {fileID: 2100000, guid: 1cf2c7dfcba654a218371f8e40f43032, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chim_mat
+    second: {fileID: 2100000, guid: 61e008383212044c79be732709dd9f1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crystal1_mat
+    second: {fileID: 2100000, guid: 7c6dd54a7568248a4aba3fc4d871e953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crystal2_mat
+    second: {fileID: 2100000, guid: 09ecfbb28779141849cdd47ab04127f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: float_rock
+    second: {fileID: 2100000, guid: f638649be22f44944883dc88d721a624, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fungus2
+    second: {fileID: 2100000, guid: dc6cc8e2bc3504cff832e5d837f194ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horn1
+    second: {fileID: 2100000, guid: 4b1dfbb3ce20e41dda7c63dc4b6a1c5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hug_float_rock
+    second: {fileID: 2100000, guid: 4b8133ce0c9eb4b9c83374b664ba645c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaf2_mat
+    second: {fileID: 2100000, guid: ca26edb45fecb4870a5afcc32f6eb5d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaf_string2
+    second: {fileID: 2100000, guid: adae40bb377914b3f851c803bcace1bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mushroom1
+    second: {fileID: 2100000, guid: f622aafac19fd49bc97dbbcb0c08cedd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mushroom_stem
+    second: {fileID: 2100000, guid: 59cbd53a2d26c4e76915286db796aaa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: petals4
+    second: {fileID: 2100000, guid: a33ed9919330b4954bac67b3cb1c0f2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: petals5
+    second: {fileID: 2100000, guid: a33ed9919330b4954bac67b3cb1c0f2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: petals6
+    second: {fileID: 2100000, guid: a33ed9919330b4954bac67b3cb1c0f2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: small_rock_mat
+    second: {fileID: 2100000, guid: 8f3c0cd964c9d4980abdd5067a5e11fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: step_rock1
+    second: {fileID: 2100000, guid: 31db1b149e06c4ecbb7f7060f9ea5c23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toon_plants
+    second: {fileID: 2100000, guid: 9b6cd3bf92c5546cea09caeb66fd7632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trunk1_mat
+    second: {fileID: 2100000, guid: 85c1b31bb7e24423a8137bc206483e71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trunk2_mat
+    second: {fileID: 2100000, guid: 7e63629b41d5b44829ad77b153c3ccb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: virus
+    second: {fileID: 2100000, guid: f65f5c2c1f02e4b918d2813e9a75ff85, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
