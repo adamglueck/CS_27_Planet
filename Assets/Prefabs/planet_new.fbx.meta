@@ -37,6 +37,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: egg_outer
+    second: {fileID: 2100000, guid: bff64f61ab91a4f8286bea68575d57d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: float_rock
     second: {fileID: 2100000, guid: f638649be22f44944883dc88d721a624, type: 2}
   - first:
