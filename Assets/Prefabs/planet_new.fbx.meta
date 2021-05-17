@@ -12,12 +12,22 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: black_metal
+    second: {fileID: 2100000, guid: f91568125217b424481ef1a2ebb2f79e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: branch1
     second: {fileID: 2100000, guid: fab1e6303318d4035bd228a43a5dbdc0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: bulb3
+    second: {fileID: 2100000, guid: 1cf2c7dfcba654a218371f8e40f43032, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bulb_pink
     second: {fileID: 2100000, guid: 1cf2c7dfcba654a218371f8e40f43032, type: 2}
   - first:
       type: UnityEngine:Material
@@ -62,6 +72,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: lava
+    second: {fileID: 2100000, guid: 66ab5ce27609647ec9e13577f0cce299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leaf2
+    second: {fileID: 2100000, guid: ca26edb45fecb4870a5afcc32f6eb5d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: leaf2_mat
     second: {fileID: 2100000, guid: ca26edb45fecb4870a5afcc32f6eb5d6, type: 2}
   - first:
@@ -69,6 +89,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: leaf_string2
     second: {fileID: 2100000, guid: adae40bb377914b3f851c803bcace1bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_bulb_blue
+    second: {fileID: 2100000, guid: 7b31c5a2b629c4a3890eca46d56d424c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -124,6 +149,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: trunk2_mat
     second: {fileID: 2100000, guid: 7e63629b41d5b44829ad77b153c3ccb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tube_tree_trunk
+    second: {fileID: 2100000, guid: 0267b4084593b416583f4efcd3a0f4ce, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
