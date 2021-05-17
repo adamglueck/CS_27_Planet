@@ -128,6 +128,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1665697874}
     m_Modifications:
+    - target: {fileID: -9161502004948364623, guid: d84d2ea152ee346dcae9a0ac37272a3b,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 66ab5ce27609647ec9e13577f0cce299, type: 2}
     - target: {fileID: -8760376424317415539, guid: d84d2ea152ee346dcae9a0ac37272a3b,
         type: 3}
       propertyPath: m_IsActive
@@ -193,10 +198,20 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -1894061939163140074, guid: d84d2ea152ee346dcae9a0ac37272a3b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 39.8
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d84d2ea152ee346dcae9a0ac37272a3b,
         type: 3}
       propertyPath: m_Name
       value: planet_new
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d84d2ea152ee346dcae9a0ac37272a3b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d84d2ea152ee346dcae9a0ac37272a3b, type: 3}
