@@ -32,6 +32,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: cave1
+    second: {fileID: 2100000, guid: 503647d48673049db92841f2a5b9cac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: chim_mat
     second: {fileID: 2100000, guid: 61e008383212044c79be732709dd9f1b, type: 2}
   - first:
@@ -154,6 +159,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: tube_tree_trunk
     second: {fileID: 2100000, guid: 0267b4084593b416583f4efcd3a0f4ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tunnel1
+    second: {fileID: 2100000, guid: fbf9e051f4e484d69b46b2e269d152aa, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
