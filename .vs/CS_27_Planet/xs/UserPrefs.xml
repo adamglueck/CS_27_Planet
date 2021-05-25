@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{E4115E07-F864-D5C2-A6C3-DC34C3283103}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NewPlayerController.cs">
+    <Files>
+      <File FileName="Assets/CrashShip.cs" Line="12" Column="87" />
+      <File FileName="Assets/Scripts/FauxGravityBody.cs" Line="1" Column="1" />
+      <File FileName="Assets/JoystickControl.cs" Line="34" Column="71" />
+      <File FileName="Assets/ShipController.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/NewPlayerController.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="43fb45e1-1e04-4f65-bce8-7e30f1760761" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

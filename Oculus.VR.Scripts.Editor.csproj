@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BB94E22E-5619-5750-E176-1A6CE9289261}</ProjectGuid>
+    <ProjectGuid>{32B16F38-1E45-4BAE-925A-83C82CF48E5D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Oculus.VR.Scripts.Editor</AssemblyName>
@@ -274,10 +274,10 @@
       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>/Users/adamglueck/Desktop/CS27_Planet/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>/Users/adamglueck/CS_27_Planet/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.NRefactory">
-      <HintPath>/Users/adamglueck/Desktop/CS27_Planet/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
+      <HintPath>/Users/adamglueck/CS_27_Planet/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>/Applications/Unity/Hub/Editor/2019.4.17f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -640,25 +640,25 @@
       <HintPath>/Applications/Unity/Hub/Editor/2019.4.17f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/adamglueck/Desktop/CS27_Planet/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/adamglueck/CS_27_Planet/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/adamglueck/Desktop/CS27_Planet/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/adamglueck/CS_27_Planet/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>/Users/adamglueck/Desktop/CS27_Planet/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>/Users/adamglueck/CS_27_Planet/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>/Users/adamglueck/Desktop/CS27_Planet/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>/Users/adamglueck/CS_27_Planet/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Oculus.VR.csproj">
-      <Project>{84662FC5-01E0-E07F-23F8-5F08EC401854}</Project>
+      <Project>{64F59D8A-6394-4384-6DD5-0F158487458B}</Project>
       <Name>Oculus.VR</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.Editor.csproj">
-      <Project>{8031F0E7-FF24-4FEC-DA54-9E3D32BD7AEA}</Project>
+      <Project>{9D7132B4-3E35-5DE8-7359-CC6BFAAC0423}</Project>
       <Name>Oculus.VR.Editor</Name>
     </ProjectReference>
   </ItemGroup>
