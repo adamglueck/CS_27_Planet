@@ -3,3 +3,4 @@ Library/Artifacts/86/8698623e6bd9565247bf8ef7dabe5fda filter=lfs diff=lfs merge=
 *.png filter=lfs diff=lfs merge=lfs -text
 data.unity3d filter=lfs diff=lfs merge=lfs -text
 *.unity3d filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
